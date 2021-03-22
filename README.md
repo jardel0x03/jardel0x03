@@ -1,6 +1,5 @@
 ## Senior Full-Stack Engineer
 
-![GitHub Views](https://komarev.com/JardelCheung/?username=JardelCheung&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/JardelCheung)
 
 ## 📬 Get in Touch
