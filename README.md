@@ -8,12 +8,12 @@
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/JardelCheung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelCheung&hide=PHP,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelCheung&hide=PHP,html,TSQL,Objective-C&theme=highcontrast" />
+</a>
+<a href="https://github.com/JardelCheung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JardelCheung&show_icons=true&theme=highcontrast&line_height=27" />
 </a>
 
-<a href="https://github.com/JardelCheung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JardelCheung&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jardel's GitHub Stats" />
-</a>
 
 
 <!--
