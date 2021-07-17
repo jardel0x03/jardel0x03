@@ -8,7 +8,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/JardelCheung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelCheung&hide=PHP,html,TSQL,Objective-C&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelCheung&hide=PHP,html,TSQL,Objective-C,CSS&theme=highcontrast" />
 </a>
 <a href="https://github.com/JardelCheung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JardelCheung&show_icons=true&theme=highcontrast&line_height=27" />
